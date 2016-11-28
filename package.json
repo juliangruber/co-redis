@@ -34,8 +34,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "co": "1.5.2",
-    "redis": "0.8.4",
-    "request": "2.20.0"
+    "co": "4.6.0",
+    "redis": "2.6.3",
+    "request": "2.78.0"
   }
 }
